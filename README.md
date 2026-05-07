@@ -16,13 +16,9 @@ The project implements and compares three distinct classification models:
 3. **Ensemble Voting Classifier:** A hard-voting ensemble that combines the Decision Tree, SVM, and a Logistic Regression model to improve overall reliability and reduce individual model variance.
 
 ## 📈 Results Table
-*(Example Results - These will vary slightly depending on the exact training run)*
+The Performance Comparison Table shows the final evaluation metrics for all three models.
 
-| Model | Accuracy | Precision | Recall | F1-score |
-|-------|----------|-----------|--------|----------|
-| **Decision Tree** | ~99.4% | ~99.4% | ~99.4% | ~99.4% |
-| **SVM** | ~96.5% | ~96.6% | ~96.5% | ~96.5% |
-| **Ensemble Voting** | ~98.2% | ~98.3% | ~98.2% | ~98.2% |
+![Comparison Table](images/comparison_table.png)
 
 ## 🎨 Visualizations
 
